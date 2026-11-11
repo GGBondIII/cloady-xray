@@ -17,7 +17,7 @@ VLESS + WebSocket + TLS, for personal use only.
 | Variable | Meaning |
 |----------|---------|
 | `UUID` | VLESS client UUID (generate one, e.g. `uuidgen`) |
-| `WS_PATH` | WebSocket path, e.g. `/a3a0d0f525479072` (must start with `/`) |
+| `WS_PATH` | WebSocket path, e.g. `/9f2c4a7b1e8d4a6f` (must start with `/`, random hex) |
 
 ## Resource limits (Cloady free tier)
 
